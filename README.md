@@ -1,1 +1,2 @@
-This is not my code, it is part of course work 
+This is not my code. 
+This is GUI design in java
